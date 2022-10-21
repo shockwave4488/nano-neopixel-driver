@@ -4540,7 +4540,7 @@
   (gr_text "NEOPIXEL DRIVER\nV1.1" (at 105.4 101.2 270) (layer "F.SilkS") (tstamp 57fcf6d6-f783-4b60-b0fd-e0d466fd0d11)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "JLCJLCJLCJLC" (at 123.8 108.5 90) (layer "F.SilkS") (tstamp 618dd691-b311-4f9c-9908-ae7fda2219f2)
+  (gr_text "JLCJLCJLCJLC" (at 123.8 80.6 90) (layer "F.SilkS") (tstamp 618dd691-b311-4f9c-9908-ae7fda2219f2)
     (effects (font (size 0.8 1) (thickness 0.15)))
   )
   (gr_text "USB" (at 118.5 113.8) (layer "F.SilkS") (tstamp 89d0c3a9-2f98-451a-8c17-8db5c563d887)
